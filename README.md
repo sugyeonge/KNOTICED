@@ -1,6 +1,6 @@
 # KNOTICED
 
-This repository contains the KNOTICED dataset
+This repository contains the KNOTICED dataset.
 
 Paper link: [Detecting Critical Errors Considering Cross-Cultural Factors in English-Korean Translation](https://aclanthology.org/2024.lrec-main.421/)
 

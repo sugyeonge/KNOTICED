@@ -19,6 +19,5 @@ In this paper, we propose KNOTICED, a critical error detection dataset for Engli
   author={Eo, Sugyeong and Lim, Jungwoo and Park, Chanjun and Jung, Dahyun and Koo, Seonmin and Moon, Hyeonseok and Seo, Jaehyung and Lim, Heui-Seok},
   booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
   pages={4705--4716},
-  year={2024}
-}
-```
+  year={2024}}
+  ```

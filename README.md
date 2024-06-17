@@ -13,7 +13,7 @@ In this paper, we propose KNOTICED, a critical error detection dataset for Engli
 
 ## Citation
 
-- Please cite our paper if you use our framework:
+- Please cite our paper if you use our dataset:
   ```@inproceedings{eo2024detecting,
   title={Detecting Critical Errors Considering Cross-Cultural Factors in English-Korean Translation},
   author={Eo, Sugyeong and Lim, Jungwoo and Park, Chanjun and Jung, Dahyun and Koo, Seonmin and Moon, Hyeonseok and Seo, Jaehyung and Lim, Heui-Seok},
